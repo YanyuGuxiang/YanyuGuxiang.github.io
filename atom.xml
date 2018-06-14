@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yanyuguxiang.github.io/"/>
-  <updated>2018-06-14T03:06:05.742Z</updated>
+  <updated>2018-06-14T07:44:57.614Z</updated>
   <id>http://yanyuguxiang.github.io/</id>
   
   <author>
@@ -21,11 +21,13 @@
     <link href="http://yanyuguxiang.github.io/2018/06/13/My-New-Post/"/>
     <id>http://yanyuguxiang.github.io/2018/06/13/My-New-Post/</id>
     <published>2018-06-13T05:21:20.000Z</published>
-    <updated>2018-06-14T03:06:05.742Z</updated>
+    <updated>2018-06-14T07:44:57.614Z</updated>
     
     <summary type="html">
     
     </summary>
+    
+      <category term="分享技术" scheme="http://yanyuguxiang.github.io/categories/%E5%88%86%E4%BA%AB%E6%8A%80%E6%9C%AF/"/>
     
     
       <category term="品味生活" scheme="http://yanyuguxiang.github.io/tags/%E5%93%81%E5%91%B3%E7%94%9F%E6%B4%BB/"/>

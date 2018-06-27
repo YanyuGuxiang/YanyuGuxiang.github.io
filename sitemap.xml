@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zhuyublog.site/2018/06/13/hello-world/</loc>
+    
+    <lastmod>2018-06-24T04:04:16.299Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zhuyublog.site/2018/06/13/My-New-Post/</loc>
     
     <lastmod>2018-06-23T11:21:24.830Z</lastmod>
@@ -16,16 +23,16 @@
   </url>
   
   <url>
-    <loc>https://www.zhuyublog.site/tags/index.html</loc>
+    <loc>https://www.zhuyublog.site/about/index.html</loc>
     
     <lastmod>2018-06-20T07:29:08.123Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://www.zhuyublog.site/2018/06/13/hello-world/</loc>
+    <loc>https://www.zhuyublog.site/tags/index.html</loc>
     
-    <lastmod>2018-06-13T05:14:44.891Z</lastmod>
+    <lastmod>2018-06-20T07:29:08.123Z</lastmod>
     
   </url>
   

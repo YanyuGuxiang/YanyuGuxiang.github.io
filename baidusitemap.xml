@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>https://www.zhuyublog.site/2018/06/13/hello-world/</loc>
+    <lastmod>2018-06-24T04:04:16.299Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-06-13T05:14:44.891Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>https://www.zhuyublog.site/2018/06/13/My-New-Post/</loc>
     <lastmod>2018-06-23T11:21:24.830Z</lastmod>
     <data>
@@ -27,18 +42,4 @@
     
     
     
-  <url>
-    <loc>https://www.zhuyublog.site/2018/06/13/hello-world/</loc>
-    <lastmod>2018-06-13T05:14:44.891Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2018-06-13T05:14:44.891Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>

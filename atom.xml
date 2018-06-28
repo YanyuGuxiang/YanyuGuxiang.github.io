@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>烟雨古巷</title>
   
-  <subtitle>每条大鱼,都会相遇. 每个人,都会重聚</subtitle>
+  <subtitle>每条大鱼，都会相遇。 每个人，都会重聚</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zhuyublog.site/"/>
-  <updated>2018-06-28T05:14:26.830Z</updated>
+  <updated>2018-06-28T15:55:27.304Z</updated>
   <id>https://www.zhuyublog.site/</id>
   
   <author>
@@ -17,22 +17,15 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>冬天该很好,你若尚在场</title>
+    <title>Hello World</title>
     <link href="https://www.zhuyublog.site/2018/06/13/My-New-Post/"/>
     <id>https://www.zhuyublog.site/2018/06/13/My-New-Post/</id>
     <published>2018-06-13T05:21:20.000Z</published>
-    <updated>2018-06-28T05:14:26.830Z</updated>
+    <updated>2018-06-28T15:55:27.304Z</updated>
     
     <summary type="html">
     
-      &lt;p&gt;&lt;br&gt;&lt;br&gt;&amp;emsp;&amp;emsp; 写作缘由：&lt;a href=&quot;https://www.yanyuguxiang.com&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;春夏秋冬&lt;/a&gt;&lt;br&gt;&amp;emsp;&amp;emsp; 首先感谢: [温煦] 提供的[实验数据]&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;说明&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;本文基于github.com网站&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;哈哈哈&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;本文基于github.com网站&lt;br&gt;以上是摘要&lt;/p&gt;
+      &lt;p&gt;&amp;emsp;&amp;emsp;人生是一场旅行。我们经历了几次轮回,才换来这个旅行。而这个旅程很短,因此不妨大胆一些,去爱一个人,去攀一座山,去追一个梦……有很多事我都不明白。但我相信一件事。上天让我们来到这个世上,就是为了让我们创造奇迹。&lt;br&gt;
     
     </summary>
     
@@ -40,8 +33,6 @@
     
     
       <category term="品味生活" scheme="https://www.zhuyublog.site/tags/%E5%93%81%E5%91%B3%E7%94%9F%E6%B4%BB/"/>
-    
-      <category term="治愈系" scheme="https://www.zhuyublog.site/tags/%E6%B2%BB%E6%84%88%E7%B3%BB/"/>
     
   </entry>
   

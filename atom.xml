@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.zhuyublog.site/"/>
-  <updated>2018-06-23T11:21:24.830Z</updated>
+  <updated>2018-06-28T05:14:26.830Z</updated>
   <id>https://www.zhuyublog.site/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://www.zhuyublog.site/2018/06/13/My-New-Post/"/>
     <id>https://www.zhuyublog.site/2018/06/13/My-New-Post/</id>
     <published>2018-06-13T05:21:20.000Z</published>
-    <updated>2018-06-23T11:21:24.830Z</updated>
+    <updated>2018-06-28T05:14:26.830Z</updated>
     
     <summary type="html">
     
@@ -42,22 +42,6 @@
       <category term="品味生活" scheme="https://www.zhuyublog.site/tags/%E5%93%81%E5%91%B3%E7%94%9F%E6%B4%BB/"/>
     
       <category term="治愈系" scheme="https://www.zhuyublog.site/tags/%E6%B2%BB%E6%84%88%E7%B3%BB/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://www.zhuyublog.site/2018/06/13/hello-world/"/>
-    <id>https://www.zhuyublog.site/2018/06/13/hello-world/</id>
-    <published>2018-06-13T05:14:44.891Z</published>
-    <updated>2018-06-24T04:04:16.299Z</updated>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
     
   </entry>
   

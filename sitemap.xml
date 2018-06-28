@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.zhuyublog.site/about/index.html</loc>
+    
+    <lastmod>2018-06-28T09:42:12.794Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://www.zhuyublog.site/2018/06/13/My-New-Post/</loc>
+    
+    <lastmod>2018-06-28T05:14:26.830Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.zhuyublog.site/cycling/index.html</loc>
     
     <lastmod>2018-06-27T05:14:36.572Z</lastmod>
@@ -26,27 +40,6 @@
     <loc>https://www.zhuyublog.site/tags/index.html</loc>
     
     <lastmod>2018-06-27T04:54:05.263Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.zhuyublog.site/about/index.html</loc>
-    
-    <lastmod>2018-06-27T03:17:24.676Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.zhuyublog.site/2018/06/13/hello-world/</loc>
-    
-    <lastmod>2018-06-24T04:04:16.299Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.zhuyublog.site/2018/06/13/My-New-Post/</loc>
-    
-    <lastmod>2018-06-23T11:21:24.830Z</lastmod>
     
   </url>
   
